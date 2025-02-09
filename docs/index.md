@@ -13,7 +13,6 @@ layout: doc
 |居住地|福岡県|
 |最終学歴|専修学校コンピュータ教育学院|
 
-
 ## 各種アカウント
 
 <p style="display: flex; gap: 8px; flex-wrap: wrap;">
