@@ -57,3 +57,8 @@ GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更
 
 ### resume-template
 https://github.com/kawamataryo/resume-template/tree/master
+
+### GitHub Pagesの設定
+「Settings」=>「Pages」=>「Build and deployment」の「Source」は
+「GitHub Actions」にしておくこと。  
+カスタムのビルド設定を反映できるため
