@@ -1,7 +1,7 @@
 FROM node:20-alpine
 
 # zshのインストール
-RUN apk update && apk add --no-cache zsh git
+RUN apk update && apk add --no-cache zsh git openssh
 
 # Yarnのインストール（既存のファイルを削除してからインストール）
 RUN rm -f /usr/local/bin/yarnpkg /usr/local/bin/yarn && npm install -g yarn
