@@ -88,7 +88,7 @@ layout: doc
 
 <div>
 
-|フレーム|経験年数|バージョン|
+|フレームワーク|経験年数|バージョン|
 |---|---|---|
 |[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)|4|7.x ~ 9.x|
 |[![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org)|2|2.x|
@@ -100,7 +100,7 @@ layout: doc
 
 ## 保有資格
 エンジニアに関係ない免許も含めています
-|名称|取得日|
+|名称|取得月|
 |---|---|
 |基本情報技術者|2015/11|
 |中型自動車免許||
