@@ -78,20 +78,20 @@ layout: doc
 
 <div>
 
-|言語|経験年数|バージョン|
-|---|---|---|
-|[![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)|5|5.6, 7.x ~ 8.3|
-|[![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)|2|3.x|
+|言語|経験年数
+|---|---|
+|[![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)|5|
+|[![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)|2|
 |[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com)|5|
 
 </div>
 
 <div>
 
-|フレームワーク|経験年数|バージョン|
-|---|---|---|
-|[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)|4|7.x ~ 9.x|
-|[![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org)|2|2.x|
+|フレームワーク|経験年数|
+|---|---|
+|[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)|4|
+|[![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org)|2|
 |[![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](https://www.vagrantup.com)|2|
 |[![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)|3|
 
