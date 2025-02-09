@@ -27,7 +27,7 @@ layout: doc
 
 :::details 2019/04〜現在 [株式会社フラッグシステム](https://www.flagsystem.co.jp/)
 
-イベント管理システムの開発、保守
+### イベント管理システムの開発、保守
 
 - **プロジェクト規模：**
   - 3〜5 人チームでの開発
@@ -42,11 +42,11 @@ layout: doc
   - 社内向けAI基盤の構築 [Generative AI Use Cases JP (略称:GenU)](https://github.com/aws-samples/generative-ai-use-cases-jp)
     - AWSで用意されているアーキテクチャを利用して、社内向けに構築
       (AI布教活動)　※ナレッジデータベース周りはあまり詳しくない
-  - AWSのSQSを利用したメール配信システムの構築
+  - AWSのSQSを利用したメール配信アーキテクチャの修正
     - Laravel -> sqs -> lambda -> ses 
   - その他、執筆中
 
-(受託案件)某通販企業の債権管理システム
+###(受託案件)某通販企業の債権管理システム
 
 - **プロジェクト規模：**
   - 2 ~ 3名(先方にて仕様調整、設計。WEBアプリ開発は、ワンオペ)
