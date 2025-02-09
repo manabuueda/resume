@@ -1,6 +1,6 @@
 ---
 title: 職務経歴書を更新してください【{{ date | date('YYYY/MM/DD') }}】
-assignees: kawamataryo
+assignees: manabu ueda
 labels: enhancement
 ---
 
