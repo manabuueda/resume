@@ -1,4 +1,4 @@
-# manabuueda's resume
+# Manabu Ueda's resume
 
 
 [![textlint](https://img.shields.io/github/actions/workflow/status/manabuueda/resume/lint-text.yml?label=textlint&logo=github&color=yellow)](https://github.com/manabuueda/resume/actions?query=workflow%3A%22lint+text%22)
