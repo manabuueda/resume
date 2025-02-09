@@ -2,8 +2,6 @@
 layout: doc
 ---
 
-
-
 # 職務経歴書
 
 ## 基本情報
@@ -23,7 +21,7 @@ layout: doc
   <!-- <a href="https://twitter.com/KawamataRyo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
   <a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-  <a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a> -->
+  <a href="https://speakerdeck.com/manabuueda" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/manabuueda-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a> -->
 </p>
 
 ## 職務経歴
@@ -157,7 +155,7 @@ layout: doc
 <NoteArticles />
 
 #### SpeakerDeck
-[https://speakerdeck.com/kawamataryo](https://speakerdeck.com/kawamataryo)
+[https://speakerdeck.com/manabuueda](https://speakerdeck.com/manabuueda)
 
 <SpeakerDeckSlides /> -->
 
@@ -198,5 +196,5 @@ layout: doc
 - **type-challenges のメンバー（日本語ローカライズを担当）**
   - [type-challenges](https://github.com/type-challenges/type-challenges)
 - Raycast 拡張機能の開発
-  - [TinyPNG](https://www.raycast.com/kawamataryo/tinypng)
-  - [esa Search](https://www.raycast.com/kawamataryo/esa-search) -->
+  - [TinyPNG](https://www.raycast.com/manabuueda/tinypng)
+  - [esa Search](https://www.raycast.com/manabuueda/esa-search) -->

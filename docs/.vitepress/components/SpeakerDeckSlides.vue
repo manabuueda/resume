@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ContentsContainer :contents="contents" more-link="https://speakerdeck.com/kawamataryo"/>
+    <ContentsContainer :contents="contents" more-link="https://speakerdeck.com/manabuueda"/>
   </div>
 </template>
 
