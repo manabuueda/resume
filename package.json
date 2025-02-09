@@ -1,11 +1,11 @@
 {
     "name": "resume",
     "version": "1.0.0",
-    "description": "manabuuedaの職務経歴書",
     "type": "module",
+    "description": "manabuuedaの職務経歴書",
     "scripts": {
         "lint": "textlint docs/README.md",
-        "build:pdf": "md-to-pdf docs/index.md --config-file ./pdf-configs/config.js",
+        "build:pdf": "md-to-pdf docs/index.md --config-file ./pdf-configs/config.cjs",
         "dev": "vitepress dev docs",
         "docs:build": "vitepress build docs",
         "docs:preview": "vitepress preview docs"
