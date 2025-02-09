@@ -55,3 +55,5 @@ GitHub Actionsのschedule triggerで3ヶ月に1回、職務経歴書の内容更
 
 期間の変更、Jobの停止は[.github/workflows/create-issue.yml](https://github.com/manabuueda/resume/blob/master/.github/workflows/create-issue.yml) を編集してください。
 
+### resume-template
+https://github.com/kawamataryo/resume-template/tree/master
