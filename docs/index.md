@@ -37,7 +37,7 @@ layout: doc
     - AWSで用意されているアーキテクチャを利用して、イベント管理システムと連携。利用希望ユーザ限定
   - 社内向けAI基盤の構築 [Generative AI Use Cases JP (略称:GenU)](https://github.com/aws-samples/generative-ai-use-cases-jp)
     - AWSで用意されているアーキテクチャを利用して、社内向けに構築
-      (AI布教活動)　※ナレッジデータベース周りはあまり詳しくない
+      (AIの便利さを社内に広める活動)　※ナレッジデータベース周りはあまり詳しくない
   - AWSのSQSを利用したメール配信アーキテクチャの修正
     - Laravel -> sqs -> lambda -> ses 
   - その他、執筆中
