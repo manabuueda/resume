@@ -6,12 +6,12 @@ layout: doc
 
 ## 基本情報
 
-|key|value|
-|---|---|
-|氏名|植田 学（Ueda Manabu）|
-|生年月日|1992/08/21|
-|居住地|福岡県|
-|最終学歴|専修学校コンピュータ教育学院|
+| key      | value                        |
+| -------- | ---------------------------- |
+| 氏名     | 植田 学（Ueda Manabu）       |
+| 生年月日 | 1992/08/21                   |
+| 居住地   | 福岡県                       |
+| 最終学歴 | 専修学校コンピュータ教育学院 |
 
 ## 各種アカウント
 
@@ -39,7 +39,7 @@ layout: doc
     - AWSで用意されているアーキテクチャを利用して、社内向けに構築
       (生成AIの便利さを社内に広める活動)
   - AWSのSQSを利用したメール配信アーキテクチャの修正
-    - Laravel -> sqs -> lambda -> ses 
+    - Laravel -> sqs -> lambda -> ses
   - その他、執筆中
 
 ### (受託案件)通販企業の債権管理システムの開発、保守
@@ -54,7 +54,7 @@ layout: doc
 :::
 
 :::details 2017/04 ~ 2019/03 [陸上自衛隊](https://www.mod.go.jp/gsdf/)
- 
+
 詳細は割愛させていただきます
 
 :::
@@ -78,42 +78,42 @@ layout: doc
 
 <div>
 
-|言語|経験年数|経験バージョン|
-|---|---|---|
-|[![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)|6|5.x ~ 8.x|
-|[![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)|2|3.x ~|
-|[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com)|5|
+| 言語                                                                                                                                               | 経験年数 | 経験バージョン |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------- |
+| [![PHP](https://img.shields.io/badge/-PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://www.php.net)                             | 6        | 5.x ~ 8.x      |
+| [![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)](https://www.python.org)                 | 2        | 3.x ~          |
+| [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=white)](https://www.javascript.com) | 5        |
 
 </div>
 
 <div>
 
-|フレームワーク|経験年数|経験バージョン|
-|---|---|---|
-|[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)|5|7.x ~ |
-|[![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org)|2|2.x|
+| フレームワーク                                                                                                                     | 経験年数 | 経験バージョン |
+| ---------------------------------------------------------------------------------------------------------------------------------- | -------- | -------------- |
+| [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com) | 5        | 7.x ~          |
+| [![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org) | 2        | 2.x            |
 
-|ソフトウェア等|経験年数|
-|---|---|
-|[![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](https://www.vagrantup.com)|2|
-|[![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)|4|
-|[![GitLab](https://img.shields.io/badge/-GitLab-fc6d26.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com)|5|
-|[![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)|2|
-
-
+| その他                                                                                                                                   | 経験年数 |
+| ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](https://www.vagrantup.com) | 2        |
+| [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)       | 4        |
+| [![GitLab](https://img.shields.io/badge/-GitLab-fc6d26.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com)           | 5        |
+| [![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com)           | 2        |
 
 </div>
 </div>
 
 ## 保有資格
+
 エンジニアに関係ない免許も含めています
-|名称|取得月|
-|---|---|
-|基本情報技術者|2015/11|
-|中型自動車免許||
-|大型自動二輪免許||
-|大型特殊自動車免許(カタピラ限定)||
-|フォークリフト免許||
+
+| 名称                             | 取得月  |
+| -------------------------------- | ------- |
+| 基本情報技術者                   | 2015/11 |
+| 中型自動車免許                   |         |
+| 大型自動二輪免許                 |         |
+| 大型特殊自動車免許(カタピラ限定) |         |
+| フォークリフト免許               |         |
 
 ## スキル
 

@@ -11,7 +11,8 @@
             "extensions": [
                 "tomoki1207.pdf",
                 "bradlc.vscode-tailwindcss",
-                "Vue.volar"
+                "Vue.volar",
+                "DavidAnson.vscode-markdownlint"
             ]
         }
     }
