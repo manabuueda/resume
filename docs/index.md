@@ -93,6 +93,11 @@ layout: doc
 | [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com) | 5| 7.x ~|
 | [![CakePHP](https://img.shields.io/badge/-CakePHP-d33c43.svg?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org) | 2| 2.x|
 
+</div>
+</div>
+
+<div>
+
 | その他 | 経験年数 |
 | --- | --- |
 | [![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2.svg?style=flat-square&logo=vagrant&logoColor=white)](https://www.vagrantup.com) | 2|
@@ -100,7 +105,6 @@ layout: doc
 | [![GitLab](https://img.shields.io/badge/-GitLab-fc6d26.svg?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com) | 5|
 | [![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com) | 2|
 
-</div>
 </div>
 
 ## 保有資格
